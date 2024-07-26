@@ -38,9 +38,10 @@ TrustLink-Scraper/
 ```
 ```│
 ├── README.md
-├── main.py
-├── cleaner.py
 ├── requirements.txt
-└── data/
+└── dataset/
+    ├── main.py
+    ├── cleaner.py
+└── output
     ├── scraped_data.csv
     └── cleaned_data.csv
