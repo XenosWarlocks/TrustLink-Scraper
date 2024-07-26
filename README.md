@@ -35,6 +35,7 @@ python main.py
 
 
 TrustLink-Scraper/
+```
 │
 ├── README.md
 ├── main.py
